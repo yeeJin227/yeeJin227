@@ -7,37 +7,39 @@
 <div align="left">
 <br><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yeeJin227&show_icons=true&theme=solarized-light"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeJin227&layout=compact&theme=solarized-light"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yeeJin227&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeJin227&layout=compact&theme=default"/>
 <br>
 <br>
 
 
 ## 📚 Stacks
-
-**Languages**
-<br> 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white">
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white">
-
-**Tools**
-<br> 
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+### Tech Stacks
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF"/>
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
+  <br>
+  
+### Tool
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio Badge">
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <br>
-<br> 
+<br>
+
 ## 💻 Activity
 
-- 언어 발달 장애 아동을 위한 언어 훈련 애플리케이션 'Speakiz' _ **유니티 개발** (2024.03~2024.11)
-- 메타버스 개발자 경진대회 출품작 VR 식물 키우기 게임 'PlantBook' _ **유니티 개발** (2024.05~2024.09)
-- 한국방송·미디어공학회 추계학술대회 대학생 및 주니어 논문 경진대회 _ 'SpeaKiz' **[논문 출품 및 발표]** (2024.11)
+- 언어 발달 장애 아동을 위한 언어 훈련 애플리케이션 'Speakiz' _**유니티 개발** (2024.03~2024.11)
+- 메타버스 개발자 경진대회 출품작 VR 식물 키우기 게임 'PlantBook' _**유니티 개발** (2024.05~2024.09)
+- 한국방송·미디어공학회 추계학술대회 대학생 및 주니어 논문 경진대회 _'SpeaKiz' **[논문 출품 및 발표]** (2024.11)
 
+<br>
 <br>
 
 
