@@ -2,7 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Wave&color=A3AFD6&height=130)
 <br><br>
-
+<br>
+<br>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=9D9ED2&size=43&center=false&vCenter=false&width=600&height=110&lines=%E3%80%80Yejin's+Github%2C+Welcome🙌%E3%80%80)](https://git.io/typing-svg)
 
