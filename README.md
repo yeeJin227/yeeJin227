@@ -7,8 +7,8 @@
 <div align="left">
 <br><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yeeJin227&show_icons=true&theme=default"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeJin227&layout=compact&theme=default"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeejin227&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeejin227&layout=compact)
 <br>
 <br>
 
