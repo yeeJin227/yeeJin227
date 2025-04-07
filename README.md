@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Wave&color=A3AFD6&height=200)
+![header](https://capsule-render.vercel.app/api?type=Wave&color=A3AFD6&height=150)
 <br><br>
 <br>
 <br>
