@@ -1,14 +1,15 @@
 
-![header](https://capsule-render.vercel.app/api?type=Wave&color=91cae1&height=150)
+<!-- ![header](https://capsule-render.vercel.app/api?type=Wave&color=91cae1&height=150) -->
 <br><br>
 <br>
 <br>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=91cae1&size=43&center=false&vCenter=false&width=600&height=110&lines=%E3%80%80Yejin's+Github%2C+Welcome!%E3%80%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=A7AFD2&size=43&center=false&vCenter=false&width=600&height=110&lines=%E3%80%80Yejin's+Github%2C+Welcome!%E3%80%80)](https://git.io/typing-svg)
 
 <div align="left">
 <br><br><br>
-
+<br>
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeejin227&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeejin227&show_icons=true&theme=default)
